@@ -1,5 +1,5 @@
 language = "c"
-run = "gcc -g p4original.c"
+run = "gcc -g p4final.c"
 
 
 
